@@ -27,31 +27,37 @@
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
+<br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">Backend Architect (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
+<br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">DB (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
+<br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">Java (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
+<br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">Spring (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
+<br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">Network (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
+<br>
 ---
 
 ### 🛠 작성 및 관리 규칙
