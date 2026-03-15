@@ -30,31 +30,31 @@
 <br>
 
 <details>
-  <summary style="font-size: 16px;"><strong id="ai-agent">Backend Architect (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="backend-architect">Backend Architect (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
 <details>
-  <summary style="font-size: 16px;"><strong id="ai-agent">DB (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="DB">DB (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
 <details>
-  <summary style="font-size: 16px;"><strong id="ai-agent">Java (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="java">Java (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
 <details>
-  <summary style="font-size: 16px;"><strong id="ai-agent">Spring (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="spring">Spring (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
 
 <details>
-  <summary style="font-size: 16px;"><strong id="ai-agent">Network (전체 보기)</strong></summary>
+  <summary style="font-size: 16px;"><strong id="network">Network (전체 보기)</strong></summary>
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
