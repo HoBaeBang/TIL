@@ -49,6 +49,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="spring">Spring (전체 보기)</strong></summary>
+
+- [2026-03-15-Spring-Boot-다중-환경-대응을-위한-전략적-설계-패턴](spring/2026-03-15-Spring-Boot-다중-환경-대응을-위한-전략적-설계-패턴.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
