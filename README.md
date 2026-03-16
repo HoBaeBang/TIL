@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-16-n8n-SerpApi-Supabase-트레이딩-데이터-자동화](n8n/2026-03-16-n8n-SerpApi-Supabase-트레이딩-데이터-자동화.md)
+
 - [2026-03-15-n8n-Discord-GitHub-TIL-자동화-워크플로우-구축](n8n/2026-03-15-n8n-Discord-GitHub-TIL-자동화-워크플로우-구축.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
